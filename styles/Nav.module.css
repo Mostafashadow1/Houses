@@ -1,0 +1,17 @@
+.nav {
+  border-bottom: 1px solid var(--line);
+  padding: 10px 0px;
+  z-index: 99;
+  transition: all 200ms ease-in-out;
+  background-color: var(--mainBig);
+}
+
+.navLink {
+  color: var(--secondColor) !important;
+  cursor: pointer;
+}
+.activeNavLink {
+  color: var(--mainColor);
+  font-weight: 500;
+  cursor: pointer;
+}
