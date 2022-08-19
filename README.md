@@ -8,7 +8,7 @@ There are three pages on the site.
 
 <h3> Home</h3>
 <p>
-On this page, we offer some information about beautiful homes to be buy or rented
+On this page, we offer some information about beautiful homes to buy or rent
 </p>
 
 <h3>Buy House</h3>
@@ -16,8 +16,8 @@ On this page, we offer some information about beautiful homes to be buy or rente
 It is also at the top of the page. Search for homes with your specifications</p>
 
 <h3>Rent House</h3>
-<p>Here there are the houses to be rented only and some information about them. When you click on the house you like, it will take you to another page with more information about this house.
-It is also at the top of the page. Search for homes with your specifications </p>
+<p> Here there are the houses to be rented only and some information about them. When you click on the home you like, it will take you to another page with more information about this house.
+It is also at the top of the page. Search for homes with your specifications</p>
 
 ## Demo
 https://houses-qfaum4gou-mostafashadow.vercel.app
