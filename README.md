@@ -1,6 +1,6 @@
 # Houses
 
-<h1>Next Project Houses </h1>
+<h1>Next Project Houses Next JS</h1>
 <h3>This site shows you all the homes to be buy or rented.
 There are many beautiful and wonderful homes available.
 There are three pages on the site.
